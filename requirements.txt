@@ -1,0 +1,23 @@
+# LangChain ecosystem (Python 3.10 compatible)
+langchain
+langchain-core
+langchain-community
+langchain-ollama
+langchain-huggingface
+
+# LLM and embedding support
+ollama
+sentence-transformers
+huggingface-hub
+
+# Vector DB
+pinecone-client
+
+# Flask web + environment
+flask
+python-dotenv
+pypdf
+ipykernel
+
+# Local project installation (if needed)
+-e .
